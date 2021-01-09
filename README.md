@@ -1,6 +1,6 @@
 # Home Access Center BOT
 
-### A big thanks to https://github.com/Hedgy134117/schoology_scrape for helping me out
+### A big thanks to https://github.com/Hedgy134117/ for helping me out
 
 
 ## Installation
