@@ -7,6 +7,9 @@ import time
 option = webdriver.ChromeOptions()
 option.add_argument("--incognito")
 option.add_argument("headless")
+
+#Enter your chromedriver's path right in parenthesis 
+
 browser = webdriver.Chrome('ENTER YOUR CHROMEDRIVER'S PATH', options = option)
 
 
@@ -48,6 +51,7 @@ browser.quit()
 
 time.sleep(2)
 
+#Enter your Discord's Webhook URL in the parenthesis                            
 hook = Webhook('ENTER YOUR DISCORD'S WEBHOOK URL HERE')
 
 '''
