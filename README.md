@@ -1,3 +1,1 @@
-# Home Access Center Discord BOT
-
-#A big thanks to @Hedgy134117
+# A big thanks to https://github.com/Hedgy134117
