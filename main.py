@@ -13,7 +13,6 @@ browser = webdriver.Chrome('ENTER YOUR CHROMEDRIVER'S PATH', options = option)
 
 browser.get("http://pldhomeaccess.spihost.com/")
 time.sleep(2)
-#browser.find_element_by_xpath('//*[@id="mG61Hd"]/div[2]/div/div[2]/div/div/div/div[2]/div/div[1]/div[1]/div[1]').click()
 
 #username input
 text_area = browser.find_element_by_id('LogOnDetails_UserName') 
