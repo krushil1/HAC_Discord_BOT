@@ -16,6 +16,15 @@
 * paste the webhook URL inside the webhook variable in the main.py file. It will the end of the code, read the comments for more help!!
 * paste the location of the chromedriver.exe file in the main.py file, read the comments for more help!!
 
+## Running the python script
+* Simply open up your terminal if you are on mac or command prompt if you are on windows
+* Switch to the directory where the python script is with the cd command
+* To run the program now, simply type python3 main.py
+* And now it should start the process of fetching your grades and dumping them to your discord, it might take up to a minute
+
+## Running it automatically
+* if you plan on running this bot automatically on Windows, use Task Scheduler. Its an pre-installed application to automatically run scripts like python
+* if you plan on running this bot automatically on MacOS, use Automator. Its an pre-installed application to automatically run scripts like python
 
 ## Adding more classes
 * read the comments in the end of the code in main.py to add more classes!
