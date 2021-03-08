@@ -5,7 +5,7 @@
 
 ## Installation
 * Install Python3
-* Install Chrome Driver, before installing the ChromeWebDriver, check your check your current Chrome browser's version number and then download the ChromeWebDriver with the matching version number to your Chrome brower from https://chromedriver.chromium.org/downloads 
+* Have Chrome, before installing the ChromeWebDriver, check your current Chrome browser's version number and then proceed to download the ChromeWebDriver with the matching version number to your Chrome brower from https://chromedriver.chromium.org/downloads 
 * store the chromedriver.exe file in a folder that you won't delete from and make remember where you save it.
 * run the command pip install -r requirements.txt
 
