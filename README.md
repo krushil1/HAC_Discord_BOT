@@ -2,6 +2,7 @@
 
 ### A big thanks to https://github.com/Hedgy134117/ for helping me out and making this possible!
 
+#### Check out v2.0 of the Home Access Center BOT: https://github.com/krushil1/Home-Access-Center-BOT-with-Discord-Integration-v2.0
 
 ## Installation
 * Install Python3
